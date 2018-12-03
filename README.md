@@ -1,10 +1,14 @@
 # Create-React-App email form 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-* [Reactstrap](https://reactstrap.github.io/)
-* [Font-Awesome](https://github.com/FortAwesome/react-fontawesome)
-* [EmailJS](http://www.emailjs.com/)
+[Reactstrap](https://reactstrap.github.io/)
+[Font-Awesome](https://github.com/FortAwesome/react-fontawesome)
+[EmailJS](http://www.emailjs.com/)
 
+## Make sure to add the following Environment variables for EmailJS:
+*REACT_APP_EMAILJS_USER
+*REACT_APP_EMAILJS_TEMPLATE
+*REACT_APP_EMAILJS_SERVICE
 
 ## Available Scripts
 
